@@ -20,7 +20,6 @@
                     "ignoreFailures": true
                 }
             ],
-            "launchCompleteCommand": "exec-run",
             "preLaunchTask": "build"
         }
     ]
