@@ -1,8 +1,6 @@
 #include<iostream>
 #include<cstring>
 using namespace std;
-typedef long long ll;
-typedef pair<int,int> pii;
 int main(){
 	string s;
 	while(true){
