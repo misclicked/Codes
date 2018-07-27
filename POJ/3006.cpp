@@ -1,8 +1,6 @@
 #include<iostream>
 #include<vector>
 using namespace std;
-typedef long long ll;
-typedef pair<int,int> pii;
 #define MAXN 1000005
 int np[MAXN]={0};
 vector<int> prime;
