@@ -42,5 +42,5 @@ int main()
             cout << ansc << endl;
         }
     }
-    system("pause");
+    // system("pause");
 }
