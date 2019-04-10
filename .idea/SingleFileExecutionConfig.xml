@@ -3,5 +3,6 @@
   <component name="SingleFileExecutionConfig">
     <option name="executableName" value="a" />
     <option name="runtimeOutputDirectory" value="%PROJECTDIR%" />
+    <option name="notShowOverwriteConfirmDialog" value="true" />
   </component>
 </project>
