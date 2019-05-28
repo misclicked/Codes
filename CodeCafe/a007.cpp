@@ -1,6 +1,7 @@
 //
 // Created by misclicked on 2019/5/7.
 //
+#pragma GCC optimize("O2,Ofast,inline,unroll-all-loops,-ffast-math")
 
 #include <bits/stdc++.h>
 
@@ -8,7 +9,7 @@ using namespace std;
 typedef long long ll;
 typedef pair<int, int> pii;
 
-map<int,int> mape;
+unordered_map<int,int> mape;
 vector<int> vec;
 
 int main() {
