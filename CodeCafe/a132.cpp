@@ -8,9 +8,29 @@ using namespace std;
 typedef long long ll;
 typedef pair<int, int> pii;
 
+template<typename T>
+std::ostream & operator<<(std::ostream & os, std::vector<T> vec)
+{
+    if(vec.size()!=0)
+    {
+        std::copy(vec.begin(), vec.end()-1, std::ostream_iterator<T>(os, " "));
+        os<<vec.back();
+    }
+    return os;
+}
+
 int out[300005];
 vector<int> vec[300005];
 int vis[300005];
+vector<int> ans;
+
+void dfs(int n){
+    if(vis[n])return;
+    vis[n]=1;
+    for(auto it:vec[n])
+        dfs(it);
+    ans.push_back(n);
+}
 
 int main() {
 #ifndef ONLINE_JUDGE
@@ -28,41 +48,9 @@ int main() {
         int a,b;
         cin>>a>>b;
         vec[b].push_back(a);
-        out[a]++;
     }
-    queue<int> que;
-    vector<int> ans;
-    for(int i=1;i<=n;i++){
-        if(out[i]==0)que.push(i);
-    }
-    while(que.size()){
-        int now=que.front();
-        que.pop();
-        vis[now]=true;
-        ans.push_back(now);
-        for(auto it:vec[now]){
-            out[it]--;
-            if(out[it]==0)
-                que.push(it);
-        }
-    }
-    reverse(ans.begin(),ans.end());
-    if(ans.size()){
-        cout<<ans[0];
-        for(int i=1;i<ans.size();i++){
-            cout<<" "<<ans[i];
-        }
-        for(int i=1;i<=n;i++){
-            if(!vis[i])
-                cout<<" "<<i;
-        }
-        cout<<endl;
-    }else{
-        cout<<1;
-        for(int i=2;i<=n;i++){
-            cout<<" "<<i;
-        }
-        cout<<endl;
-    }
-
+    for(int i=1;i<=n;i++)
+        if(!vis[i])
+            dfs(i);
+    cout<<ans<<endl;
 }

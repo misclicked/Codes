@@ -7,7 +7,7 @@
 using namespace std;
 typedef long long ll;
 typedef pair<int, int> pii;
-int input[1005]={0};
+short input[1005]={0};
 
 int main() {
 #ifndef ONLINE_JUDGE
@@ -17,7 +17,7 @@ int main() {
     ios_base::sync_with_stdio(false);
     cin.tie();
 #endif
-    int n,m,k,hb=1,now,ans=-1,kk;
+    short n,m,k,hb=1,now,ans=-1,kk;
     string s;
     char c;
     cin>>n>>m>>k;
