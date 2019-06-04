@@ -32,6 +32,14 @@ void dfs(int n){
     ans.push_back(n);
 }
 
+void scanint(int &x)
+{
+    register int c = getchar_unlocked();
+    x = 0;
+    for(;(c<48 || c>57);c = getchar_unlocked());
+    for(;c>47 && c<58;c = getchar_unlocked()) {x = (x<<1) + (x<<3) + c - 48;}
+}
+
 int main() {
 #ifndef ONLINE_JUDGE
     freopen("input.txt", "r", stdin);
@@ -43,10 +51,12 @@ int main() {
     memset(out,0,sizeof(out));
     memset(vis,0,sizeof(vis));
     int n,m;
-    cin>>n>>m;
+    int a,b;
+    scanint(n);
+    scanint(m);
     for(int i=0;i<m;i++){
-        int a,b;
-        cin>>a>>b;
+        scanint(a);
+        scanint(b);
         vec[b].push_back(a);
     }
     for(int i=1;i<=n;i++)

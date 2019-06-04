@@ -1,12 +1,10 @@
 //
 // Created by misclicked on 2019/6/3.
 //
-
 #include <stdio.h>
 
-#define MOD 1000000007
-#define EUMOD 1000000006
-char n[100005];
+#define MOD 1000000007ll
+#define EUMOD 1000000006ll
 inline long long mul(long long a,long long b,long long c){
     register long long ans=0, tmp = a%c;
     while(b){
@@ -30,17 +28,12 @@ long long modpow(long long n){
     return ret;
 }
 int main() {
-#ifndef ONLINE_JUDGE
-    freopen("input.txt", "r", stdin);
-    freopen("output.txt", "w", stdout);
-#else
-#endif
-    scanf("%s",&n);
+    register char c;
     long long num=0;
-    for(int i=0;n[i];i++){
-        num=num%EUMOD;
-        num=num*10+n[i]-'0';
+    for(;(c=getchar())!='\n';){
+        num=((num<<3)+(num<<1)+c-48);
+        if(num>=EUMOD)num%=EUMOD;
     }
     num+=EUMOD;
-    printf("%d\n",(modpow(num)+EUMOD)%MOD);
+    printf("%lld\n",(modpow(num)+EUMOD)%MOD);
 }
