@@ -4,5 +4,6 @@ project(Codes)
 set(CMAKE_CXX_STANDARD 14)
 set(GCC_COVERAGE_COMPILE_FLAGS "-static-libgcc ")
 
-add_executable(a B.cpp)
+
+add_executable(a Codeforces/1174/pD.cpp)
 set_target_properties(a PROPERTIES RUNTIME_OUTPUT_DIRECTORY "${PROJECT_SOURCE_DIR}")
