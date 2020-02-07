@@ -1,3 +1,1 @@
-"C:\Program Files\JetBrains\CLion 2019.1\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\a.dir/objects.a
-C:\MinGW\bin\ar.exe cr CMakeFiles\a.dir/objects.a @CMakeFiles\a.dir\objects1.rsp
-C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\a.dir/objects.a -Wl,--no-whole-archive  -o ..\a.exe -Wl,--out-implib,liba.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\a.dir\linklibs.rsp
+/usr/bin/c++  -g   CMakeFiles/a.dir/Codeforces/1294/pF.cpp.o  -o ../a 

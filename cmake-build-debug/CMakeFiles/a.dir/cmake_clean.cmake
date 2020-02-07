@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/a.dir/Codeforces/1228/pC.cpp.obj"
+  "../a"
   "../a.pdb"
-  "../a.exe"
-  "../a.exe.manifest"
-  "liba.dll.a"
+  "CMakeFiles/a.dir/Codeforces/1294/pF.cpp.o"
 )
 
 # Per-language clean rules from dependency scanning.
