@@ -123,32 +123,32 @@ a/fast:
 	$(MAKE) -f CMakeFiles/a.dir/build.make CMakeFiles/a.dir/build
 .PHONY : a/fast
 
-NCKU_Online_Judge/6.o: NCKU_Online_Judge/6.cpp.o
+NCKUOnlineJudge/6.o: NCKUOnlineJudge/6.cpp.o
 
-.PHONY : NCKU_Online_Judge/6.o
+.PHONY : NCKUOnlineJudge/6.o
 
 # target to build an object file
-NCKU_Online_Judge/6.cpp.o:
-	$(MAKE) -f CMakeFiles/a.dir/build.make CMakeFiles/a.dir/NCKU_Online_Judge/6.cpp.o
-.PHONY : NCKU_Online_Judge/6.cpp.o
+NCKUOnlineJudge/6.cpp.o:
+	$(MAKE) -f CMakeFiles/a.dir/build.make CMakeFiles/a.dir/NCKUOnlineJudge/6.cpp.o
+.PHONY : NCKUOnlineJudge/6.cpp.o
 
-NCKU_Online_Judge/6.i: NCKU_Online_Judge/6.cpp.i
+NCKUOnlineJudge/6.i: NCKUOnlineJudge/6.cpp.i
 
-.PHONY : NCKU_Online_Judge/6.i
+.PHONY : NCKUOnlineJudge/6.i
 
 # target to preprocess a source file
-NCKU_Online_Judge/6.cpp.i:
-	$(MAKE) -f CMakeFiles/a.dir/build.make CMakeFiles/a.dir/NCKU_Online_Judge/6.cpp.i
-.PHONY : NCKU_Online_Judge/6.cpp.i
+NCKUOnlineJudge/6.cpp.i:
+	$(MAKE) -f CMakeFiles/a.dir/build.make CMakeFiles/a.dir/NCKUOnlineJudge/6.cpp.i
+.PHONY : NCKUOnlineJudge/6.cpp.i
 
-NCKU_Online_Judge/6.s: NCKU_Online_Judge/6.cpp.s
+NCKUOnlineJudge/6.s: NCKUOnlineJudge/6.cpp.s
 
-.PHONY : NCKU_Online_Judge/6.s
+.PHONY : NCKUOnlineJudge/6.s
 
 # target to generate assembly for a file
-NCKU_Online_Judge/6.cpp.s:
-	$(MAKE) -f CMakeFiles/a.dir/build.make CMakeFiles/a.dir/NCKU_Online_Judge/6.cpp.s
-.PHONY : NCKU_Online_Judge/6.cpp.s
+NCKUOnlineJudge/6.cpp.s:
+	$(MAKE) -f CMakeFiles/a.dir/build.make CMakeFiles/a.dir/NCKUOnlineJudge/6.cpp.s
+.PHONY : NCKUOnlineJudge/6.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... a"
 	@echo "... edit_cache"
-	@echo "... NCKU_Online_Judge/6.o"
-	@echo "... NCKU_Online_Judge/6.i"
-	@echo "... NCKU_Online_Judge/6.s"
+	@echo "... NCKUOnlineJudge/6.o"
+	@echo "... NCKUOnlineJudge/6.i"
+	@echo "... NCKUOnlineJudge/6.s"
 .PHONY : help
 
 

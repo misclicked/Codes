@@ -12,56 +12,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6b28ad4-7947-4897-aeba-d2bd37177c5e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeforces/1287/pB.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeforces/1296/pD.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeforces/1296/pE1.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeforces/1296/pE2.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeforces/1296/pF.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeforces/1304/pC.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeforces/1307/amazing.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeforces/1307/pA.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeforces/1307/pB.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeforces/1307/pC.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeforces/1307/pD.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeforces/1307/pDalt.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeforces/1313/pA.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeforces/591/pB.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeforces/962/pA.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeforces/962/pB.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeforces/962/pC.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeforces/962/pD.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeforces/962/pE.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeforces/965/pA.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeforces/965/pB.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeforces/967/pA.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HDU/1205/1205.2.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HDU/1205/1205.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCKU Online Judge/1.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCKU Online Judge/2.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCKU Online Judge/3.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCKU Online Judge/6.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPOJ/HALLOW/solution.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Uva/11172.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Uva/11498.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Uva/11727.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/criticalInput.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gen" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Codeforces/1296/pC.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Codeforces/1296/pC.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GenOutput.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/GenOutput.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a" beforeDir="false" afterPath="$PROJECT_DIR$/a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NCKU Online Judge/1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/NCKUOnlineJudge/1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NCKU Online Judge/2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/NCKUOnlineJudge/2.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NCKU Online Judge/3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/NCKUOnlineJudge/3.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NCKU Online Judge/6.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/NCKUOnlineJudge/6.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a.dir/DependInfo.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a.dir/cmake_clean.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a.dir/depend.internal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a.dir/depend.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Codes.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Codes.cbp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.txt" beforeDir="false" afterPath="$PROJECT_DIR$/debug.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -171,7 +133,7 @@
       <workItem from="1581405165386" duration="10605000" />
       <workItem from="1581497498308" duration="215000" />
       <workItem from="1581497723101" duration="272000" />
-      <workItem from="1581498005366" duration="91014000" />
+      <workItem from="1581498005366" duration="91763000" />
     </task>
     <task id="LOCAL-00001" summary="add Clion IDE configs">
       <created>1554865095896</created>
@@ -208,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581061111743</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="AC">
+      <created>1583223633048</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1583223633048</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -239,10 +208,10 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2616" y="376" width="518" height="325" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1581121035213" />
-    <state x="2445" y="131" width="860" height="816" key="CommitChangelistDialog2" timestamp="1581061111680">
+    <state x="2445" y="131" width="860" height="816" key="CommitChangelistDialog2" timestamp="1583223632861">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2445" y="131" width="860" height="816" key="CommitChangelistDialog2/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1581061111680" />
+    <state x="2445" y="131" width="860" height="816" key="CommitChangelistDialog2/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583223632861" />
     <state width="1874" height="130" key="GridCell.Tab.0.bottom" timestamp="1583223478638">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
@@ -287,10 +256,10 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state width="498" height="446" key="SwitcherDM/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1582296852822" />
-    <state x="2475" y="275" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1581061162800">
+    <state x="2475" y="275" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1583223663787">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2475" y="275" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1581061162800" />
+    <state x="2475" y="275" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583223663787" />
     <state x="2648" y="459" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581061044654">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
