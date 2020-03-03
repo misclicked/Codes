@@ -8,12 +8,28 @@ using namespace std;
 typedef long long ll;
 typedef pair<int, int> pii;
 
-int main() {
-    freopen("input.txt", "w", stdout);
-    string s="123456789";
-    for(int i=0;i<100;i++){
-        random_shuffle(s.begin(),s.end());
-        cout<<'9'<<s<<endl;
+bool vis[1005] = {0};
+vector<int> G[1005];
+
+void DFS(int v) {
+    vis[v] = true;
+    for (auto it:G[v]) {
+        if (!vis[it])DFS(it);
     }
-    cout<<"0000000000"<<endl;
+}
+
+int main() {
+    srand(time(0));
+    freopen("input.txt", "w", stdout);
+    int T = 5000;
+    cout << T << endl;
+    while (T--) {
+        int n, c, now;
+        n = rand() % 10 + 2;
+        cout << n << endl;
+        for (int i = 0; i < n; i++) {
+            cout << rand() % 10 << " ";
+        }
+        cout << endl;
+    }
 }

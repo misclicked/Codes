@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "../a"
   "../a.pdb"
-  "CMakeFiles/a.dir/Codeforces/1294/pF.cpp.o"
+  "CMakeFiles/a.dir/NCKU_Online_Judge/6.cpp.o"
 )
 
 # Per-language clean rules from dependency scanning.

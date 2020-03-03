@@ -1,4 +1,2 @@
-fardep: 7 ferest: 8
-fardep: 7 ferest: 1
-1 8 3 2 4 5 6 7 
-fardep: 0 ferest: 0
+29
+63

@@ -123,32 +123,32 @@ a/fast:
 	$(MAKE) -f CMakeFiles/a.dir/build.make CMakeFiles/a.dir/build
 .PHONY : a/fast
 
-Codeforces/1294/pF.o: Codeforces/1294/pF.cpp.o
+NCKU_Online_Judge/6.o: NCKU_Online_Judge/6.cpp.o
 
-.PHONY : Codeforces/1294/pF.o
+.PHONY : NCKU_Online_Judge/6.o
 
 # target to build an object file
-Codeforces/1294/pF.cpp.o:
-	$(MAKE) -f CMakeFiles/a.dir/build.make CMakeFiles/a.dir/Codeforces/1294/pF.cpp.o
-.PHONY : Codeforces/1294/pF.cpp.o
+NCKU_Online_Judge/6.cpp.o:
+	$(MAKE) -f CMakeFiles/a.dir/build.make CMakeFiles/a.dir/NCKU_Online_Judge/6.cpp.o
+.PHONY : NCKU_Online_Judge/6.cpp.o
 
-Codeforces/1294/pF.i: Codeforces/1294/pF.cpp.i
+NCKU_Online_Judge/6.i: NCKU_Online_Judge/6.cpp.i
 
-.PHONY : Codeforces/1294/pF.i
+.PHONY : NCKU_Online_Judge/6.i
 
 # target to preprocess a source file
-Codeforces/1294/pF.cpp.i:
-	$(MAKE) -f CMakeFiles/a.dir/build.make CMakeFiles/a.dir/Codeforces/1294/pF.cpp.i
-.PHONY : Codeforces/1294/pF.cpp.i
+NCKU_Online_Judge/6.cpp.i:
+	$(MAKE) -f CMakeFiles/a.dir/build.make CMakeFiles/a.dir/NCKU_Online_Judge/6.cpp.i
+.PHONY : NCKU_Online_Judge/6.cpp.i
 
-Codeforces/1294/pF.s: Codeforces/1294/pF.cpp.s
+NCKU_Online_Judge/6.s: NCKU_Online_Judge/6.cpp.s
 
-.PHONY : Codeforces/1294/pF.s
+.PHONY : NCKU_Online_Judge/6.s
 
 # target to generate assembly for a file
-Codeforces/1294/pF.cpp.s:
-	$(MAKE) -f CMakeFiles/a.dir/build.make CMakeFiles/a.dir/Codeforces/1294/pF.cpp.s
-.PHONY : Codeforces/1294/pF.cpp.s
+NCKU_Online_Judge/6.cpp.s:
+	$(MAKE) -f CMakeFiles/a.dir/build.make CMakeFiles/a.dir/NCKU_Online_Judge/6.cpp.s
+.PHONY : NCKU_Online_Judge/6.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... a"
 	@echo "... edit_cache"
-	@echo "... Codeforces/1294/pF.o"
-	@echo "... Codeforces/1294/pF.i"
-	@echo "... Codeforces/1294/pF.s"
+	@echo "... NCKU_Online_Judge/6.o"
+	@echo "... NCKU_Online_Judge/6.i"
+	@echo "... NCKU_Online_Judge/6.s"
 .PHONY : help
 
 

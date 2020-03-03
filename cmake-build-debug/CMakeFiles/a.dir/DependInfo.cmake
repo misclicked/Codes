@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/misclicked/CLionProjects/Codes/Codeforces/1294/pF.cpp" "/home/misclicked/CLionProjects/Codes/cmake-build-debug/CMakeFiles/a.dir/Codeforces/1294/pF.cpp.o"
+  "/home/misclicked/CLionProjects/Codes/NCKU Online Judge/6.cpp" "/home/misclicked/CLionProjects/Codes/cmake-build-debug/CMakeFiles/a.dir/NCKU_Online_Judge/6.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

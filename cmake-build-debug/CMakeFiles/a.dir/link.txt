@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/a.dir/Codeforces/1294/pF.cpp.o  -o ../a 
+/usr/bin/c++  -g   CMakeFiles/a.dir/NCKU_Online_Judge/6.cpp.o  -o ../a 

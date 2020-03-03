@@ -57,27 +57,27 @@ include CMakeFiles/a.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/a.dir/flags.make
 
-CMakeFiles/a.dir/Codeforces/1294/pF.cpp.o: CMakeFiles/a.dir/flags.make
-CMakeFiles/a.dir/Codeforces/1294/pF.cpp.o: ../Codeforces/1294/pF.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/misclicked/CLionProjects/Codes/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/a.dir/Codeforces/1294/pF.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/a.dir/Codeforces/1294/pF.cpp.o -c /home/misclicked/CLionProjects/Codes/Codeforces/1294/pF.cpp
+CMakeFiles/a.dir/NCKU_Online_Judge/6.cpp.o: CMakeFiles/a.dir/flags.make
+CMakeFiles/a.dir/NCKU_Online_Judge/6.cpp.o: ../NCKU\ Online\ Judge/6.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/misclicked/CLionProjects/Codes/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/a.dir/NCKU_Online_Judge/6.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/a.dir/NCKU_Online_Judge/6.cpp.o -c "/home/misclicked/CLionProjects/Codes/NCKU Online Judge/6.cpp"
 
-CMakeFiles/a.dir/Codeforces/1294/pF.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/a.dir/Codeforces/1294/pF.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/misclicked/CLionProjects/Codes/Codeforces/1294/pF.cpp > CMakeFiles/a.dir/Codeforces/1294/pF.cpp.i
+CMakeFiles/a.dir/NCKU_Online_Judge/6.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/a.dir/NCKU_Online_Judge/6.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/misclicked/CLionProjects/Codes/NCKU Online Judge/6.cpp" > CMakeFiles/a.dir/NCKU_Online_Judge/6.cpp.i
 
-CMakeFiles/a.dir/Codeforces/1294/pF.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/a.dir/Codeforces/1294/pF.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/misclicked/CLionProjects/Codes/Codeforces/1294/pF.cpp -o CMakeFiles/a.dir/Codeforces/1294/pF.cpp.s
+CMakeFiles/a.dir/NCKU_Online_Judge/6.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/a.dir/NCKU_Online_Judge/6.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/misclicked/CLionProjects/Codes/NCKU Online Judge/6.cpp" -o CMakeFiles/a.dir/NCKU_Online_Judge/6.cpp.s
 
 # Object files for target a
 a_OBJECTS = \
-"CMakeFiles/a.dir/Codeforces/1294/pF.cpp.o"
+"CMakeFiles/a.dir/NCKU_Online_Judge/6.cpp.o"
 
 # External object files for target a
 a_EXTERNAL_OBJECTS =
 
-../a: CMakeFiles/a.dir/Codeforces/1294/pF.cpp.o
+../a: CMakeFiles/a.dir/NCKU_Online_Judge/6.cpp.o
 ../a: CMakeFiles/a.dir/build.make
 ../a: CMakeFiles/a.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/misclicked/CLionProjects/Codes/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable ../a"
