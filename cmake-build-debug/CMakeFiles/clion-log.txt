@@ -1,4 +1,4 @@
-/home/misclicked/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/193.6015.37/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/misclicked/CLionProjects/Codes
+"C:\Program Files\JetBrains\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\misclicked\CLionProjects\Codes
 -- Configuring done
 -- Generating done
--- Build files have been written to: /home/misclicked/CLionProjects/Codes/cmake-build-debug
+-- Build files have been written to: C:/Users/misclicked/CLionProjects/Codes/cmake-build-debug

@@ -1,7 +1,9 @@
 file(REMOVE_RECURSE
-  "../a"
+  "../a.exe"
+  "../a.exe.manifest"
   "../a.pdb"
-  "CMakeFiles/a.dir/Uva/294.cpp.o"
+  "CMakeFiles/a.dir/NCKUOnlineJudge/8.cpp.obj"
+  "liba.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.
