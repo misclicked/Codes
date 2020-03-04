@@ -23,17 +23,32 @@ int main() {
 #endif
     int n, m;
     cin >> n >> m;
+    vector<string> vec;
+    string s;
     map<string, int> mape;
     for (int i = 0; i < n; i++) {
-        string s;
         cin >> s;
-        sort(s.begin(), s.end());
+        vec.push_back(s);
         mape[s]++;
     }
     ll ans = 0;
-    vector<int> vec;
-    for (auto it:mape[s]) {
-        vec.push_back(it.second);
+    for (int i = 0; i < n; i++) {
+        for (int j = i + 1; j < n; j++) {
+            s = "";
+            for (int k = 0; k < m; k++) {
+                if (vec[i][k] == vec[j][k])s.push_back(vec[i][k]);
+                if (vec[i][k] == 'S' && vec[j][k] == 'E' ||
+                    vec[i][k] == 'E' && vec[j][k] == 'S')
+                    s.push_back('T');
+                if (vec[i][k] == 'S' && vec[j][k] == 'T' ||
+                    vec[i][k] == 'T' && vec[j][k] == 'S')
+                    s.push_back('E');
+                if (vec[i][k] == 'T' && vec[j][k] == 'E' ||
+                    vec[i][k] == 'E' && vec[j][k] == 'T')
+                    s.push_back('S');
+            }
+            ans += mape[s];
+        }
     }
-    for (auto it:vec)
+    cout << ans / 3 << endl;
 }

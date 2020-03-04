@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/a.dir/NCKUOnlineJudge/6.cpp.o  -o ../a 
+/usr/bin/c++  -g   CMakeFiles/a.dir/Uva/294.cpp.o  -o ../a 
