@@ -44,7 +44,7 @@ int main() {
         for (ll i = a; i <= b; i++) {
             ll now = 1;
             ll k = i;
-            for (int j = 0; (primes[j] * primes[j]) <= k && j < primes.size(); j++) {
+            for (int j = 0; j < primes.size() && (primes[j] * primes[j]) <= k; j++) {
                 int here = 0;
                 while (k % primes[j] == 0) {
                     k /= primes[j];
