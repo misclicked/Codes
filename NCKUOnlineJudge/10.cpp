@@ -33,7 +33,7 @@ int main() {
         G[a].push_back({b, c});
         G[b].push_back({a, c});
     }
-    for (int i = 1; i < n; i++)d[i] = -1;
+    for (int i = 1; i <= n; i++)d[i] = -1;
     d[0] = 0;
     priority_queue<pii, vector<pii>, greater<pii> > pq;
     pq.push({0, 0});
