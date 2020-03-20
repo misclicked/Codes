@@ -13,6 +13,8 @@ typedef pair<int, int> pii;
 #define cerr if (false) cerr
 #endif
 
+vector<pii> vec;
+
 int main() {
 #ifndef ONLINE_JUDGE
     freopen("input.txt", "r", stdin);
@@ -22,18 +24,17 @@ int main() {
     ios_base::sync_with_stdio(false);
     cin.tie();
 #endif
-    vector<string> vec;
-    for (int i = 0; i < 3; i++) {
-        string s;
-        cin >> s;
-        vec.push_back(s);
+    int n;
+    cin >> n;
+    if (n == 0)return 0;
+    for (int i = 0; i < n; i++) {
+        int data;
+        cin >> data;
+        vec.push_back({data, i});
     }
-    sort(vec.begin(), vec.end());
-    string s;
-    ll ans = 0;
-    do {
-        s = vec[0] + vec[1] + vec[2];
-        ans = max(ans, stoll(s));
-    } while (next_permutation(vec.begin(), vec.end()));
-    cout << ans << endl;
+    sort(vec.begin(), vec.end(), greater<pii>());
+    cout << vec[0].second + 1;
+    for (int i = 1; i < n; i++)
+        cout << " " << vec[i].second + 1;
+    cout << endl;
 }

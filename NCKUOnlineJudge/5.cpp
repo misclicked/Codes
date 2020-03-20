@@ -22,18 +22,12 @@ int main() {
     ios_base::sync_with_stdio(false);
     cin.tie();
 #endif
-    vector<string> vec;
-    for (int i = 0; i < 3; i++) {
-        string s;
-        cin >> s;
-        vec.push_back(s);
-    }
-    sort(vec.begin(), vec.end());
-    string s;
-    ll ans = 0;
-    do {
-        s = vec[0] + vec[1] + vec[2];
-        ans = max(ans, stoll(s));
-    } while (next_permutation(vec.begin(), vec.end()));
-    cout << ans << endl;
+    ll n;
+    cin >> n;
+    if (n < 1)cout << "Calm" << endl;
+    else if (n < 4)cout << "Light air" << endl;
+    else if (n < 28)cout << "Breeze" << endl;
+    else if (n < 48)cout << "Gale" << endl;
+    else if (n < 64)cout << "Storm" << endl;
+    else cout << "Hurricane" << endl;
 }

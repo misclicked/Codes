@@ -22,18 +22,17 @@ int main() {
     ios_base::sync_with_stdio(false);
     cin.tie();
 #endif
-    vector<string> vec;
-    for (int i = 0; i < 3; i++) {
-        string s;
-        cin >> s;
-        vec.push_back(s);
-    }
-    sort(vec.begin(), vec.end());
     string s;
-    ll ans = 0;
-    do {
-        s = vec[0] + vec[1] + vec[2];
-        ans = max(ans, stoll(s));
-    } while (next_permutation(vec.begin(), vec.end()));
-    cout << ans << endl;
+    int A, B;
+    A = B = 0;
+    cin >> s;
+    for (int i = 11; i >= 1; i -= 2)
+        A += s[i] - '0';
+    for (int i = 10; i >= 0; i -= 2)
+        B += s[i] - '0';
+    int x = A * 3 + B;
+    int y = x - 1;
+    int z = y % 10;
+    cout << 9 - z << endl;
+
 }
