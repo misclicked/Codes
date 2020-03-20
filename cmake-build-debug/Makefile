@@ -123,32 +123,32 @@ a/fast:
 	$(MAKE) -f CMakeFiles/a.dir/build.make CMakeFiles/a.dir/build
 .PHONY : a/fast
 
-Uva/294.o: Uva/294.cpp.o
+NCKUOnlineJudge/17.o: NCKUOnlineJudge/17.c.o
 
-.PHONY : Uva/294.o
+.PHONY : NCKUOnlineJudge/17.o
 
 # target to build an object file
-Uva/294.cpp.o:
-	$(MAKE) -f CMakeFiles/a.dir/build.make CMakeFiles/a.dir/Uva/294.cpp.o
-.PHONY : Uva/294.cpp.o
+NCKUOnlineJudge/17.c.o:
+	$(MAKE) -f CMakeFiles/a.dir/build.make CMakeFiles/a.dir/NCKUOnlineJudge/17.c.o
+.PHONY : NCKUOnlineJudge/17.c.o
 
-Uva/294.i: Uva/294.cpp.i
+NCKUOnlineJudge/17.i: NCKUOnlineJudge/17.c.i
 
-.PHONY : Uva/294.i
+.PHONY : NCKUOnlineJudge/17.i
 
 # target to preprocess a source file
-Uva/294.cpp.i:
-	$(MAKE) -f CMakeFiles/a.dir/build.make CMakeFiles/a.dir/Uva/294.cpp.i
-.PHONY : Uva/294.cpp.i
+NCKUOnlineJudge/17.c.i:
+	$(MAKE) -f CMakeFiles/a.dir/build.make CMakeFiles/a.dir/NCKUOnlineJudge/17.c.i
+.PHONY : NCKUOnlineJudge/17.c.i
 
-Uva/294.s: Uva/294.cpp.s
+NCKUOnlineJudge/17.s: NCKUOnlineJudge/17.c.s
 
-.PHONY : Uva/294.s
+.PHONY : NCKUOnlineJudge/17.s
 
 # target to generate assembly for a file
-Uva/294.cpp.s:
-	$(MAKE) -f CMakeFiles/a.dir/build.make CMakeFiles/a.dir/Uva/294.cpp.s
-.PHONY : Uva/294.cpp.s
+NCKUOnlineJudge/17.c.s:
+	$(MAKE) -f CMakeFiles/a.dir/build.make CMakeFiles/a.dir/NCKUOnlineJudge/17.c.s
+.PHONY : NCKUOnlineJudge/17.c.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... a"
 	@echo "... edit_cache"
-	@echo "... Uva/294.o"
-	@echo "... Uva/294.i"
-	@echo "... Uva/294.s"
+	@echo "... NCKUOnlineJudge/17.o"
+	@echo "... NCKUOnlineJudge/17.i"
+	@echo "... NCKUOnlineJudge/17.s"
 .PHONY : help
 
 

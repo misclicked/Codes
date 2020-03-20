@@ -1,15 +1,15 @@
 # The set of languages for which implicit dependencies are needed:
 set(CMAKE_DEPENDS_LANGUAGES
-  "CXX"
+  "C"
   )
 # The set of files for implicit dependencies of each language:
-set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/misclicked/CLionProjects/Codes/Uva/294.cpp" "/home/misclicked/CLionProjects/Codes/cmake-build-debug/CMakeFiles/a.dir/Uva/294.cpp.o"
+set(CMAKE_DEPENDS_CHECK_C
+  "/home/misclicked/CLionProjects/Codes/NCKUOnlineJudge/17.c" "/home/misclicked/CLionProjects/Codes/cmake-build-debug/CMakeFiles/a.dir/NCKUOnlineJudge/17.c.o"
   )
-set(CMAKE_CXX_COMPILER_ID "GNU")
+set(CMAKE_C_COMPILER_ID "GNU")
 
 # The include file search paths:
-set(CMAKE_CXX_TARGET_INCLUDE_PATH
+set(CMAKE_C_TARGET_INCLUDE_PATH
   )
 
 # Targets to which this target links.
