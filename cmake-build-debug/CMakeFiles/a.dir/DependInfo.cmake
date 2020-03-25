@@ -1,15 +1,15 @@
 # The set of languages for which implicit dependencies are needed:
 set(CMAKE_DEPENDS_LANGUAGES
-  "C"
+  "CXX"
   )
 # The set of files for implicit dependencies of each language:
-set(CMAKE_DEPENDS_CHECK_C
-  "/home/misclicked/CLionProjects/Codes/NCKUOnlineJudge/17.c" "/home/misclicked/CLionProjects/Codes/cmake-build-debug/CMakeFiles/a.dir/NCKUOnlineJudge/17.c.o"
+set(CMAKE_DEPENDS_CHECK_CXX
+  "C:/Users/ISMP/CLionProjects/Codes/NCKUOnlineJudge/contest2/pE.cpp" "C:/Users/ISMP/CLionProjects/Codes/cmake-build-debug/CMakeFiles/a.dir/NCKUOnlineJudge/contest2/pE.cpp.obj"
   )
-set(CMAKE_C_COMPILER_ID "GNU")
+set(CMAKE_CXX_COMPILER_ID "GNU")
 
 # The include file search paths:
-set(CMAKE_C_TARGET_INCLUDE_PATH
+set(CMAKE_CXX_TARGET_INCLUDE_PATH
   )
 
 # Targets to which this target links.

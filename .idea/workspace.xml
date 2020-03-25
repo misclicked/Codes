@@ -12,64 +12,40 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6b28ad4-7947-4897-aeba-d2bd37177c5e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/AtCoder/abc158/pA.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AtCoder/abc158/pB.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AtCoder/abc158/pC.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AtCoder/abc158/pD.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AtCoder/abc158/pE.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AtCoder/abc158/pF.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B-large-practice.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B-small-practice.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeforces/1303/pA.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeforces/1303/pB.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeforces/1313/pC2.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeforces/1316/pD.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeforces/1321/pA.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeforces/1323/pA.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeforces/1323/pB.2.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeforces/1323/pB.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeforces/1323/pC.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeforces/1323/pD.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeforces/1324/pA.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeforces/1324/pB.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeforces/1324/pC.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeforces/1324/pD.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeforces/1325/pD.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GCJ/4394486B.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ICPC/3135.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/10.2.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/11.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/13.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/14.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/15.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/15.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/16.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/17.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/3.2.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/9.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Study/Byzantine Agreement/RabinGlobalCoinFlip.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Uva/1262.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zerojudge/c482.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello-world-helper.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codeforces/552/pC.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/Contest1/33.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/Contest1/pA.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/Contest1/pB.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/Contest1/pC.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/Contest1/pD.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/Contest1/pE.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/Contest1/pF.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/Contest1/pG.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/contest2/pA.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/contest2/pB.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/contest2/pC.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/contest2/pD.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/contest2/pE.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pbds.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AtCoder/practice_1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/AtCoder/practice_1.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GenOutput.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/GenOutput.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NCKUOnlineJudge/1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/NCKUOnlineJudge/1.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NCKUOnlineJudge/2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/NCKUOnlineJudge/2.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a" beforeDir="false" afterPath="$PROJECT_DIR$/a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a.dir/DependInfo.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a.dir/cmake_clean.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a.dir/depend.internal" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a.dir/depend.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a.dir/flags.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Codes.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Codes.cbp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/criticalInput.txt" beforeDir="false" afterPath="$PROJECT_DIR$/criticalInput.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -296,30 +272,34 @@
     </state>
     <state x="2445" y="151" key="CommitChangelistDialog2/0.27.1920.988/1920.20.1920.1080@1920.20.1920.1080" timestamp="1584693913193" />
     <state x="2445" y="131" width="860" height="816" key="CommitChangelistDialog2/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583309696259" />
-    <state width="1874" height="166" key="GridCell.Tab.0.bottom" timestamp="1584625531230">
-      <screen x="1920" y="20" width="1920" height="1080" />
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1585136471636">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585136471636" />
     <state width="1874" height="118" key="GridCell.Tab.0.bottom/0.27.1920.988/1920.20.1920.1080@0.27.1920.988" timestamp="1584350804869" />
     <state width="1874" height="166" key="GridCell.Tab.0.bottom/0.27.1920.988/1920.20.1920.1080@1920.20.1920.1080" timestamp="1584625531230" />
     <state width="1874" height="130" key="GridCell.Tab.0.bottom/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1584025310185" />
     <state width="1874" height="353" key="GridCell.Tab.0.bottom/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1584347496038" />
-    <state width="1874" height="166" key="GridCell.Tab.0.center" timestamp="1584625531229">
-      <screen x="1920" y="20" width="1920" height="1080" />
+    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1585136471636">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585136471636" />
     <state width="1874" height="118" key="GridCell.Tab.0.center/0.27.1920.988/1920.20.1920.1080@0.27.1920.988" timestamp="1584350804869" />
     <state width="1874" height="166" key="GridCell.Tab.0.center/0.27.1920.988/1920.20.1920.1080@1920.20.1920.1080" timestamp="1584625531229" />
     <state width="1874" height="130" key="GridCell.Tab.0.center/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1584025310185" />
     <state width="1874" height="353" key="GridCell.Tab.0.center/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1584347496038" />
-    <state width="1874" height="166" key="GridCell.Tab.0.left" timestamp="1584625531229">
-      <screen x="1920" y="20" width="1920" height="1080" />
+    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1585136471636">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585136471636" />
     <state width="1874" height="118" key="GridCell.Tab.0.left/0.27.1920.988/1920.20.1920.1080@0.27.1920.988" timestamp="1584350804869" />
     <state width="1874" height="166" key="GridCell.Tab.0.left/0.27.1920.988/1920.20.1920.1080@1920.20.1920.1080" timestamp="1584625531229" />
     <state width="1874" height="130" key="GridCell.Tab.0.left/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1584025310185" />
     <state width="1874" height="353" key="GridCell.Tab.0.left/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1584347496038" />
-    <state width="1874" height="166" key="GridCell.Tab.0.right" timestamp="1584625531230">
-      <screen x="1920" y="20" width="1920" height="1080" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1585136471636">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585136471636" />
     <state width="1874" height="118" key="GridCell.Tab.0.right/0.27.1920.988/1920.20.1920.1080@0.27.1920.988" timestamp="1584350804869" />
     <state width="1874" height="166" key="GridCell.Tab.0.right/0.27.1920.988/1920.20.1920.1080@1920.20.1920.1080" timestamp="1584625531230" />
     <state width="1874" height="130" key="GridCell.Tab.0.right/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1584025310185" />
@@ -360,9 +340,10 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2652" y="251" width="446" height="575" key="RollbackChangesDialog/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583309567517" />
-    <state x="2369" y="174" width="1422" height="730" key="SettingsEditor" timestamp="1583591040090">
-      <screen x="1920" y="0" width="1920" height="1080" />
+    <state x="449" y="168" width="1422" height="708" key="SettingsEditor" timestamp="1585131012253">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="449" y="168" width="1422" height="708" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1585131012253" />
     <state x="2369" y="174" width="1422" height="730" key="SettingsEditor/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583591040090" />
     <state width="498" height="446" key="SwitcherDM" timestamp="1582296852822">
       <screen x="1920" y="0" width="1920" height="1080" />
@@ -385,13 +366,15 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2529" y="258" width="700" height="530" key="recent.locations.popup/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583297232248" />
-    <state x="2544" y="240" key="run.anything.popup" timestamp="1584415113300">
-      <screen x="1920" y="20" width="1920" height="1080" />
+    <state x="624" y="212" key="run.anything.popup" timestamp="1585133541879">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="624" y="212" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1585133541879" />
     <state x="2544" y="240" key="run.anything.popup/0.27.1920.988/1920.20.1920.1080@1920.20.1920.1080" timestamp="1584415113300" />
-    <state x="2543" y="237" width="672" height="678" key="search.everywhere.popup" timestamp="1582309081442">
-      <screen x="1920" y="0" width="1920" height="1080" />
+    <state x="623" y="228" width="672" height="653" key="search.everywhere.popup" timestamp="1585135577117">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="623" y="228" width="672" height="653" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1585135577117" />
     <state x="2543" y="237" width="672" height="678" key="search.everywhere.popup/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1582309081442" />
   </component>
   <component name="XDebuggerManager">
