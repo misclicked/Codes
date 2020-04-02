@@ -1,14 +1,7 @@
-#pragma GCC optimize("Ofast,inline,unroll-loops,fast-math")
-
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
 
 using namespace std;
-#define ll long long
-#define P 998244353
 #define L 1048576
-#define real double
-#define eps 1e-9
-#define MAXN 500005
 char _buf[L], *S, *T, _buf1[L], *S1 = _buf1;
 
 inline char gc()
@@ -51,35 +44,25 @@ void out(int x)
     pc(x % 10 ^ '0');
 }
 
-int Pow(int x, int y)
-{
-    int s = 1;
-    for (; y; y >>= 1, x = (ll) x * x % P)if (y & 1)s = (ll) s * x % P;
-    return s;
-}
-
-int A(int x)
-{
-    return x < 0 ? -x : x;
-}
-
-int n, i, d, a[MAXN];
+int n, m, i, d;
+typedef pair<int, int> pii;
+deque<pii> vec;
 
 int main()
 {
     get(n);
-    if (n == 0)return 0;
-    for (i = 1; i <= n; i++)
+    get(m);
+    for (i = 0; i < n; i++)
     {
         get(d);
-        a[n - d] = i;
-    }
-    out(a[0]);
-    for (i = 1; i < n; i++)
-    {
-        pc(' ');
-        out(a[i]);
+        while (vec.size() && vec.back().first < d)vec.pop_back();
+        vec.emplace_back(d, i);
+        if (vec.front().second == i - m) vec.pop_front();
+        if (i + 1 >= m)
+        {
+            out(vec.front().first);
+            pc(' ');
+        }
     }
     fwrite(_buf1, 1, S1 - _buf1, stdout);
-    return 0;
 }

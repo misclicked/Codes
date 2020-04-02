@@ -1,28 +1,14 @@
-//
-// Created by misclicked on 3/11/20.
-//
+#import <unistd.h>
 
-#include <bits/stdc++.h>
+char R[8], S[8];
+int len;
+float a;
 
-using namespace std;
-typedef long long ll;
-typedef pair<int, int> pii;
-
-#define ONLINE_JUDGE
-#ifdef ONLINE_JUDGE
-#define cerr if (false) cerr
-#endif
-
-int main() {
-#ifndef ONLINE_JUDGE
-    freopen("input.txt", "r", stdin);
-    freopen("output.txt", "w", stdout);
-    freopen("debug.txt", "w", stderr);
-#else
-    ios_base::sync_with_stdio(false);
-    cin.tie();
-#endif
-    double a;
-    cin >> a;
-    cout << fixed << setprecision(4) << setw(4) << a * 1.8 + 32 << endl;
+main()
+{
+    read(STDIN_FILENO, R, 8);
+    sscanf(R, "%f", &a);
+    len = sprintf(S, "%.02f", a * 1.8 + 32);
+    write(STDOUT_FILENO, S, len);
+    return close(STDOUT_FILENO);
 }

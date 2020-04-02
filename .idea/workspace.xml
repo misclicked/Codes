@@ -12,23 +12,54 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6b28ad4-7947-4897-aeba-d2bd37177c5e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Codeforces/552/pC.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/Contest1/33.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/Contest1/pA.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/Contest1/pB.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/Contest1/pC.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/Contest1/pD.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/Contest1/pE.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/Contest1/pF.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/Contest1/pG.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/contest2/pA.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/contest2/pB.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/contest2/pC.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/contest2/pD.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/contest2/pE.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pbds.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codechef/GGCURR.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GCJ/5374486pA.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/12.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/17.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/18.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/19.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/20.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/21.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/22.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/23.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/24.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/contest2/lib0020.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/contest2/pA.2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/contest2/pB.2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/contest2/pB.3.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/contest2/pB.4.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/contest2/pC.2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/contest2/pD.2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/contest2/pE.2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/contest2/pE.3.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/contest2/pE.4.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Uva/10901.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hehe.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luogu/p2181.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output1.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GenOutput.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/GenOutput.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NCKUOnlineJudge/1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/NCKUOnlineJudge/1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NCKUOnlineJudge/10.2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NCKUOnlineJudge/10.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/NCKUOnlineJudge/10.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NCKUOnlineJudge/11.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/NCKUOnlineJudge/11.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NCKUOnlineJudge/13.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/NCKUOnlineJudge/13.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NCKUOnlineJudge/14.c" beforeDir="false" afterPath="$PROJECT_DIR$/NCKUOnlineJudge/14.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NCKUOnlineJudge/15.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NCKUOnlineJudge/15.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/NCKUOnlineJudge/15.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NCKUOnlineJudge/16.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/NCKUOnlineJudge/16.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NCKUOnlineJudge/17.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NCKUOnlineJudge/2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/NCKUOnlineJudge/2.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NCKUOnlineJudge/3.2.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NCKUOnlineJudge/3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/NCKUOnlineJudge/3.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NCKUOnlineJudge/4.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/NCKUOnlineJudge/4.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NCKUOnlineJudge/5.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/NCKUOnlineJudge/5.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NCKUOnlineJudge/7.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/NCKUOnlineJudge/7.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NCKUOnlineJudge/9.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/NCKUOnlineJudge/9.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NCKUOnlineJudge/contest2/pC.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/NCKUOnlineJudge/contest2/pC.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NCKUOnlineJudge/contest2/pE.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/NCKUOnlineJudge/contest2/pE.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a" beforeDir="false" afterPath="$PROJECT_DIR$/a" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
@@ -101,7 +132,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/B.cpp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/NCKUOnlineJudge/contest2" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -115,7 +146,11 @@
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/B.cpp" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/NCKUOnlineJudge/contest2" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/NCKUOnlineJudge" />
       <recent name="D:\Codes" />
     </key>
   </component>
@@ -165,6 +200,12 @@
       <workItem from="1584350351541" duration="1847000" />
       <workItem from="1584365723782" duration="8086000" />
       <workItem from="1584517747633" duration="16724000" />
+      <workItem from="1585311313718" duration="14495000" />
+      <workItem from="1585476187153" duration="3112000" />
+      <workItem from="1585631022905" duration="4201000" />
+      <workItem from="1585642974807" duration="2345000" />
+      <workItem from="1585720635200" duration="4929000" />
+      <workItem from="1585842010514" duration="16970000" />
     </task>
     <task id="LOCAL-00001" summary="add Clion IDE configs">
       <created>1554865095896</created>
@@ -272,60 +313,60 @@
     </state>
     <state x="2445" y="151" key="CommitChangelistDialog2/0.27.1920.988/1920.20.1920.1080@1920.20.1920.1080" timestamp="1584693913193" />
     <state x="2445" y="131" width="860" height="816" key="CommitChangelistDialog2/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583309696259" />
-    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1585136471636">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1874" height="172" key="GridCell.Tab.0.bottom" timestamp="1585858001739">
+      <screen x="1920" y="20" width="1920" height="1080" />
     </state>
     <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585136471636" />
-    <state width="1874" height="118" key="GridCell.Tab.0.bottom/0.27.1920.988/1920.20.1920.1080@0.27.1920.988" timestamp="1584350804869" />
-    <state width="1874" height="166" key="GridCell.Tab.0.bottom/0.27.1920.988/1920.20.1920.1080@1920.20.1920.1080" timestamp="1584625531230" />
+    <state width="1874" height="166" key="GridCell.Tab.0.bottom/0.27.1920.988/1920.20.1920.1080@0.27.1920.988" timestamp="1585550418325" />
+    <state width="1874" height="172" key="GridCell.Tab.0.bottom/0.27.1920.988/1920.20.1920.1080@1920.20.1920.1080" timestamp="1585858001739" />
     <state width="1874" height="130" key="GridCell.Tab.0.bottom/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1584025310185" />
     <state width="1874" height="353" key="GridCell.Tab.0.bottom/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1584347496038" />
-    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1585136471636">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1874" height="172" key="GridCell.Tab.0.center" timestamp="1585858001739">
+      <screen x="1920" y="20" width="1920" height="1080" />
     </state>
     <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585136471636" />
-    <state width="1874" height="118" key="GridCell.Tab.0.center/0.27.1920.988/1920.20.1920.1080@0.27.1920.988" timestamp="1584350804869" />
-    <state width="1874" height="166" key="GridCell.Tab.0.center/0.27.1920.988/1920.20.1920.1080@1920.20.1920.1080" timestamp="1584625531229" />
+    <state width="1874" height="166" key="GridCell.Tab.0.center/0.27.1920.988/1920.20.1920.1080@0.27.1920.988" timestamp="1585550418325" />
+    <state width="1874" height="172" key="GridCell.Tab.0.center/0.27.1920.988/1920.20.1920.1080@1920.20.1920.1080" timestamp="1585858001739" />
     <state width="1874" height="130" key="GridCell.Tab.0.center/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1584025310185" />
     <state width="1874" height="353" key="GridCell.Tab.0.center/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1584347496038" />
-    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1585136471636">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1874" height="172" key="GridCell.Tab.0.left" timestamp="1585858001739">
+      <screen x="1920" y="20" width="1920" height="1080" />
     </state>
     <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585136471636" />
-    <state width="1874" height="118" key="GridCell.Tab.0.left/0.27.1920.988/1920.20.1920.1080@0.27.1920.988" timestamp="1584350804869" />
-    <state width="1874" height="166" key="GridCell.Tab.0.left/0.27.1920.988/1920.20.1920.1080@1920.20.1920.1080" timestamp="1584625531229" />
+    <state width="1874" height="166" key="GridCell.Tab.0.left/0.27.1920.988/1920.20.1920.1080@0.27.1920.988" timestamp="1585550418325" />
+    <state width="1874" height="172" key="GridCell.Tab.0.left/0.27.1920.988/1920.20.1920.1080@1920.20.1920.1080" timestamp="1585858001739" />
     <state width="1874" height="130" key="GridCell.Tab.0.left/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1584025310185" />
     <state width="1874" height="353" key="GridCell.Tab.0.left/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1584347496038" />
-    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1585136471636">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1874" height="172" key="GridCell.Tab.0.right" timestamp="1585858001739">
+      <screen x="1920" y="20" width="1920" height="1080" />
     </state>
     <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585136471636" />
-    <state width="1874" height="118" key="GridCell.Tab.0.right/0.27.1920.988/1920.20.1920.1080@0.27.1920.988" timestamp="1584350804869" />
-    <state width="1874" height="166" key="GridCell.Tab.0.right/0.27.1920.988/1920.20.1920.1080@1920.20.1920.1080" timestamp="1584625531230" />
+    <state width="1874" height="166" key="GridCell.Tab.0.right/0.27.1920.988/1920.20.1920.1080@0.27.1920.988" timestamp="1585550418325" />
+    <state width="1874" height="172" key="GridCell.Tab.0.right/0.27.1920.988/1920.20.1920.1080@1920.20.1920.1080" timestamp="1585858001739" />
     <state width="1874" height="130" key="GridCell.Tab.0.right/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1584025310185" />
     <state width="1874" height="353" key="GridCell.Tab.0.right/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1584347496038" />
-    <state width="1874" height="327" key="GridCell.Tab.1.bottom" timestamp="1584625328218">
+    <state width="1874" height="327" key="GridCell.Tab.1.bottom" timestamp="1585854338578">
       <screen x="1920" y="20" width="1920" height="1080" />
     </state>
-    <state width="1874" height="327" key="GridCell.Tab.1.bottom/0.27.1920.988/1920.20.1920.1080@1920.20.1920.1080" timestamp="1584625328218" />
+    <state width="1874" height="327" key="GridCell.Tab.1.bottom/0.27.1920.988/1920.20.1920.1080@1920.20.1920.1080" timestamp="1585854338578" />
     <state width="1874" height="353" key="GridCell.Tab.1.bottom/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1584025103512" />
     <state width="1874" height="353" key="GridCell.Tab.1.bottom/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1584347496038" />
-    <state width="1874" height="327" key="GridCell.Tab.1.center" timestamp="1584625328218">
+    <state width="1874" height="327" key="GridCell.Tab.1.center" timestamp="1585854338578">
       <screen x="1920" y="20" width="1920" height="1080" />
     </state>
-    <state width="1874" height="327" key="GridCell.Tab.1.center/0.27.1920.988/1920.20.1920.1080@1920.20.1920.1080" timestamp="1584625328218" />
+    <state width="1874" height="327" key="GridCell.Tab.1.center/0.27.1920.988/1920.20.1920.1080@1920.20.1920.1080" timestamp="1585854338578" />
     <state width="1874" height="353" key="GridCell.Tab.1.center/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1584025103512" />
     <state width="1874" height="353" key="GridCell.Tab.1.center/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1584347496038" />
-    <state width="1874" height="327" key="GridCell.Tab.1.left" timestamp="1584625328218">
+    <state width="1874" height="327" key="GridCell.Tab.1.left" timestamp="1585854338578">
       <screen x="1920" y="20" width="1920" height="1080" />
     </state>
-    <state width="1874" height="327" key="GridCell.Tab.1.left/0.27.1920.988/1920.20.1920.1080@1920.20.1920.1080" timestamp="1584625328218" />
+    <state width="1874" height="327" key="GridCell.Tab.1.left/0.27.1920.988/1920.20.1920.1080@1920.20.1920.1080" timestamp="1585854338578" />
     <state width="1874" height="353" key="GridCell.Tab.1.left/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1584025103512" />
     <state width="1874" height="353" key="GridCell.Tab.1.left/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1584347496038" />
-    <state width="1874" height="327" key="GridCell.Tab.1.right" timestamp="1584625328218">
+    <state width="1874" height="327" key="GridCell.Tab.1.right" timestamp="1585854338578">
       <screen x="1920" y="20" width="1920" height="1080" />
     </state>
-    <state width="1874" height="327" key="GridCell.Tab.1.right/0.27.1920.988/1920.20.1920.1080@1920.20.1920.1080" timestamp="1584625328218" />
+    <state width="1874" height="327" key="GridCell.Tab.1.right/0.27.1920.988/1920.20.1920.1080@1920.20.1920.1080" timestamp="1585854338578" />
     <state width="1874" height="353" key="GridCell.Tab.1.right/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1584025103512" />
     <state width="1874" height="353" key="GridCell.Tab.1.right/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1584347496038" />
     <state x="2102" y="116" width="1536" height="820" key="MergeDialog" timestamp="1584693955373">
@@ -340,10 +381,11 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2652" y="251" width="446" height="575" key="RollbackChangesDialog/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583309567517" />
-    <state x="449" y="168" width="1422" height="708" key="SettingsEditor" timestamp="1585131012253">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="2369" y="194" width="1422" height="708" key="SettingsEditor" timestamp="1585212164713">
+      <screen x="1920" y="20" width="1920" height="1080" />
     </state>
     <state x="449" y="168" width="1422" height="708" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1585131012253" />
+    <state x="2369" y="194" key="SettingsEditor/0.27.1920.988/1920.20.1920.1080@1920.20.1920.1080" timestamp="1585212164713" />
     <state x="2369" y="174" width="1422" height="730" key="SettingsEditor/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583591040090" />
     <state width="498" height="446" key="SwitcherDM" timestamp="1582296852822">
       <screen x="1920" y="0" width="1920" height="1080" />
@@ -354,10 +396,18 @@
     </state>
     <state x="2475" y="295" key="Vcs.Push.Dialog.v2/0.27.1920.988/1920.20.1920.1080@1920.20.1920.1080" timestamp="1584693924916" />
     <state x="2475" y="275" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583309708739" />
+    <state x="2359" y="119" width="1031" height="815" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1585843224730">
+      <screen x="1920" y="20" width="1920" height="1080" />
+    </state>
+    <state x="2359" y="119" width="1031" height="815" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.27.1920.988/1920.20.1920.1080@1920.20.1920.1080" timestamp="1585843224730" />
     <state x="2648" y="459" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581061044654">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2648" y="459" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1581061044654" />
+    <state x="3198" y="20" width="610" height="430" key="dock-window-1" timestamp="1585206541225">
+      <screen x="1920" y="20" width="1920" height="1080" />
+    </state>
+    <state x="3198" y="20" width="610" height="430" key="dock-window-1/0.27.1920.988/1920.20.1920.1080@1920.20.1920.1080" timestamp="1585206541225" />
     <state x="2447" y="87" width="866" height="903" key="find.popup" timestamp="1583218633574">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
@@ -371,10 +421,11 @@
     </state>
     <state x="624" y="212" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1585133541879" />
     <state x="2544" y="240" key="run.anything.popup/0.27.1920.988/1920.20.1920.1080@1920.20.1920.1080" timestamp="1584415113300" />
-    <state x="623" y="228" width="672" height="653" key="search.everywhere.popup" timestamp="1585135577117">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="2543" y="257" width="672" height="679" key="search.everywhere.popup" timestamp="1585857166571">
+      <screen x="1920" y="20" width="1920" height="1080" />
     </state>
     <state x="623" y="228" width="672" height="653" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1585135577117" />
+    <state x="2543" y="257" width="672" height="679" key="search.everywhere.popup/0.27.1920.988/1920.20.1920.1080@1920.20.1920.1080" timestamp="1585857166571" />
     <state x="2543" y="237" width="672" height="678" key="search.everywhere.popup/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1582309081442" />
   </component>
   <component name="XDebuggerManager">
@@ -394,10 +445,7 @@
     </breakpoint-manager>
     <watches-manager>
       <configuration name="CMakeRunConfiguration">
-        <watch expression="ans" language="ObjectiveC" />
-        <watch expression="a" language="ObjectiveC" />
-        <watch expression="timeline" language="ObjectiveC" />
-        <watch expression="calc" language="ObjectiveC" />
+        <watch expression="inp" language="ObjectiveC" />
         <watch expression="st" language="ObjectiveC" />
         <watch expression="ed" language="ObjectiveC" />
       </configuration>

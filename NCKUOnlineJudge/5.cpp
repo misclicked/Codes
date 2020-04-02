@@ -1,33 +1,18 @@
-//
-// Created by ISMP on 2020/3/4.
-//
+#import <unistd.h>
+#import <stdio.h>
 
-#include <bits/stdc++.h>
+#define gc getchar_unlocked
 
-using namespace std;
-typedef long long ll;
-typedef pair<int, int> pii;
+char n, c;
 
-#define ONLINE_JUDGE
-#ifdef ONLINE_JUDGE
-#define cerr if (false) cerr
-#endif
-
-int main() {
-#ifndef ONLINE_JUDGE
-    freopen("input.txt", "r", stdin);
-    freopen("output.txt", "w", stdout);
-    freopen("debug.txt", "w", stderr);
-#else
-    ios_base::sync_with_stdio(false);
-    cin.tie();
-#endif
-    ll n;
-    cin >> n;
-    if (n < 1)cout << "Calm" << endl;
-    else if (n < 4)cout << "Light air" << endl;
-    else if (n < 28)cout << "Breeze" << endl;
-    else if (n < 48)cout << "Gale" << endl;
-    else if (n < 64)cout << "Storm" << endl;
-    else cout << "Hurricane" << endl;
+int main()
+{
+    for (c = gc(); c >= '0'; c = gc())n = (n << 3) + (n << 1) + (c ^ '0');
+    if (n < 1)write(STDOUT_FILENO, "Calm", 4);
+    else if (n < 4)write(STDOUT_FILENO, "Light air", 9);
+    else if (n < 28)write(STDOUT_FILENO, "Breeze", 6);
+    else if (n < 48)write(STDOUT_FILENO, "Gale", 4);
+    else if (n < 64)write(STDOUT_FILENO, "Storm", 5);
+    else write(STDOUT_FILENO, "Hurricane", 9);
+    return close(STDOUT_FILENO);
 }

@@ -1,14 +1,8 @@
-#pragma GCC optimize("Ofast,inline,unroll-loops,fast-math")
-
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
+#include <unistd.h>
 
 using namespace std;
-#define ll long long
-#define P 998244353
-#define L 1048576
-#define real double
-#define eps 1e-9
-#define MAXN 500005
+#define L 248576
 char _buf[L], *S, *T, _buf1[L], *S1 = _buf1;
 
 inline char gc()
@@ -51,35 +45,24 @@ void out(int x)
     pc(x % 10 ^ '0');
 }
 
-int Pow(int x, int y)
-{
-    int s = 1;
-    for (; y; y >>= 1, x = (ll) x * x % P)if (y & 1)s = (ll) s * x % P;
-    return s;
-}
-
-int A(int x)
-{
-    return x < 0 ? -x : x;
-}
-
-int n, i, d, a[MAXN];
+int inp[100005];
+int n, m, k, i, pre, now;
+long long ans = 0;
 
 int main()
 {
     get(n);
-    if (n == 0)return 0;
-    for (i = 1; i <= n; i++)
-    {
-        get(d);
-        a[n - d] = i;
-    }
-    out(a[0]);
+    get(m);
+    get(k);
+    get(pre);
     for (i = 1; i < n; i++)
     {
-        pc(' ');
-        out(a[i]);
+        get(now);
+        inp[i - 1] = now - pre - 1;
+        pre = now;
     }
-    fwrite(_buf1, 1, S1 - _buf1, stdout);
-    return 0;
+    stable_sort(inp, inp + n - 1);
+    for (i = 0; i < n - k; i++)ans += inp[i];
+    out(ans + n);
+    write(STDOUT_FILENO, _buf1, S1 - _buf1);
 }

@@ -1,39 +1,29 @@
-//
-// Created by ISMP on 2020/3/4.
-//
+#import <stdio.h>
+#import <math.h>
 
-#include <bits/stdc++.h>
+#define gc getchar_unlocked
+#define ex(a, b) (long long)((a)*pow(10,ceil(log10(b+0.1)))+(b))
 
-using namespace std;
-typedef long long ll;
-typedef pair<int, int> pii;
+long long a, b, c;
+char d;
 
-#define ONLINE_JUDGE
-#ifdef ONLINE_JUDGE
-#define cerr if (false) cerr
-#endif
-
-int main() {
-#ifndef ONLINE_JUDGE
-    freopen("input.txt", "r", stdin);
-    freopen("output.txt", "w", stdout);
-    freopen("debug.txt", "w", stderr);
-#else
-    ios_base::sync_with_stdio(false);
-    cin.tie();
-#endif
-    vector<string> vec;
-    for (int i = 0; i < 3; i++) {
-        string s;
-        cin >> s;
-        vec.push_back(s);
-    }
-    sort(vec.begin(), vec.end());
-    string s;
-    ll ans = 0;
-    do {
-        s = vec[0] + vec[1] + vec[2];
-        ans = max(ans, stoll(s));
-    } while (next_permutation(vec.begin(), vec.end()));
-    cout << ans << endl;
+int main()
+{
+    for (d = gc(); d >= '0'; d = gc())a = (a << 3) + (a << 1) + (d ^ '0');
+    for (d = gc(); d >= '0'; d = gc())b = (b << 3) + (b << 1) + (d ^ '0');
+    for (d = gc(); d >= '0'; d = gc())c = (c << 3) + (c << 1) + (d ^ '0');
+    if (ex(a, b) > ex(b, a))
+        if (ex(b, c) > ex(c, b))
+            printf("%lld%lld%lld", a, b, c);
+        else if (ex(a, c) > ex(c, a))
+            printf("%lld%lld%lld", a, c, b);
+        else
+            printf("%lld%lld%lld", c, a, b);
+    else if (ex(a, c) > ex(c, a))
+        printf("%lld%lld%lld", b, a, c);
+    else if (ex(b, c) > ex(c, b))
+        printf("%lld%lld%lld", b, c, a);
+    else
+        printf("%lld%lld%lld", c, b, a);
+    return fflush(stdout);
 }

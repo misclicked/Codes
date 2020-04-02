@@ -1,3 +1,1 @@
-"C:\Program Files\JetBrains\CLion 2019.3.3\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\a.dir/objects.a
-C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\ar.exe cr CMakeFiles\a.dir/objects.a @CMakeFiles\a.dir\objects1.rsp
-C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE -g   -Wl,--whole-archive CMakeFiles\a.dir/objects.a -Wl,--no-whole-archive  -o ..\a.exe -Wl,--out-implib,liba.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\a.dir\linklibs.rsp
+/usr/bin/c++  -pthread -g   CMakeFiles/a.dir/NCKUOnlineJudge/2.cpp.o  -o ../a 
