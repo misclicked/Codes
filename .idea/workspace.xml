@@ -12,71 +12,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6b28ad4-7947-4897-aeba-d2bd37177c5e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Codechef/GGCURR.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GCJ/5374486pA.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/12.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/17.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/18.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/19.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/20.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/21.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/22.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/23.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/24.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/contest2/lib0020.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/contest2/pA.2.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/contest2/pB.2.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/contest2/pB.3.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/contest2/pB.4.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/contest2/pC.2.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/contest2/pD.2.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/contest2/pE.2.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/contest2/pE.3.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/contest2/pE.4.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Uva/10901.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hehe.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/luogu/p2181.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output1.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GenOutput.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/GenOutput.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NCKUOnlineJudge/1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/NCKUOnlineJudge/1.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NCKUOnlineJudge/10.2.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NCKUOnlineJudge/10.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/NCKUOnlineJudge/10.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NCKUOnlineJudge/11.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/NCKUOnlineJudge/11.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NCKUOnlineJudge/13.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/NCKUOnlineJudge/13.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NCKUOnlineJudge/14.c" beforeDir="false" afterPath="$PROJECT_DIR$/NCKUOnlineJudge/14.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NCKUOnlineJudge/15.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NCKUOnlineJudge/15.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/NCKUOnlineJudge/15.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NCKUOnlineJudge/16.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/NCKUOnlineJudge/16.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NCKUOnlineJudge/17.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NCKUOnlineJudge/2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/NCKUOnlineJudge/2.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NCKUOnlineJudge/3.2.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NCKUOnlineJudge/3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/NCKUOnlineJudge/3.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NCKUOnlineJudge/4.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/NCKUOnlineJudge/4.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NCKUOnlineJudge/5.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/NCKUOnlineJudge/5.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NCKUOnlineJudge/7.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/NCKUOnlineJudge/7.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NCKUOnlineJudge/9.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/NCKUOnlineJudge/9.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NCKUOnlineJudge/contest2/pC.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/NCKUOnlineJudge/contest2/pC.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NCKUOnlineJudge/contest2/pE.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/NCKUOnlineJudge/contest2/pE.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a" beforeDir="false" afterPath="$PROJECT_DIR$/a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a.dir/cmake_clean.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Codes.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Codes.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/B-large-practice.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/B-small-practice.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-world-helper.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputA.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputB.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -205,7 +148,7 @@
       <workItem from="1585631022905" duration="4201000" />
       <workItem from="1585642974807" duration="2345000" />
       <workItem from="1585720635200" duration="4929000" />
-      <workItem from="1585842010514" duration="16970000" />
+      <workItem from="1585842010514" duration="17523000" />
     </task>
     <task id="LOCAL-00001" summary="add Clion IDE configs">
       <created>1554865095896</created>
@@ -270,7 +213,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583309696330</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="attack on judges">
+      <created>1585859025228</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1585859025228</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -297,52 +247,57 @@
     <MESSAGE value="change path" />
     <MESSAGE value="ACMAMAII" />
     <MESSAGE value="I'm noob" />
-    <option name="LAST_COMMIT_MESSAGE" value="I'm noob" />
+    <MESSAGE value="attack on judges" />
+    <option name="LAST_COMMIT_MESSAGE" value="attack on judges" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2616" y="376" width="518" height="325" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1583297029917">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2616" y="376" width="518" height="325" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583297029917" />
+    <state x="2613" y="275" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585859485218">
+      <screen x="1920" y="20" width="1920" height="1080" />
+    </state>
+    <state x="2613" y="275" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1920.988/1920.20.1920.1080@1920.20.1920.1080" timestamp="1585859485218" />
     <state x="3350" y="169" width="236" height="488" key="#xdebugger.XInspectDialog" timestamp="1584617876856">
       <screen x="1920" y="20" width="1920" height="1080" />
     </state>
     <state x="3350" y="169" width="236" height="488" key="#xdebugger.XInspectDialog/0.27.1920.988/1920.20.1920.1080@1920.20.1920.1080" timestamp="1584617876856" />
-    <state x="2445" y="151" width="860" height="816" key="CommitChangelistDialog2" timestamp="1584693913193">
+    <state x="2445" y="151" width="860" height="816" key="CommitChangelistDialog2" timestamp="1585859024911">
       <screen x="1920" y="20" width="1920" height="1080" />
     </state>
-    <state x="2445" y="151" key="CommitChangelistDialog2/0.27.1920.988/1920.20.1920.1080@1920.20.1920.1080" timestamp="1584693913193" />
+    <state x="2445" y="151" width="860" height="816" key="CommitChangelistDialog2/0.27.1920.988/1920.20.1920.1080@1920.20.1920.1080" timestamp="1585859024911" />
     <state x="2445" y="131" width="860" height="816" key="CommitChangelistDialog2/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583309696259" />
-    <state width="1874" height="172" key="GridCell.Tab.0.bottom" timestamp="1585858001739">
+    <state width="937" height="172" key="GridCell.Tab.0.bottom" timestamp="1585859485276">
       <screen x="1920" y="20" width="1920" height="1080" />
     </state>
     <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585136471636" />
     <state width="1874" height="166" key="GridCell.Tab.0.bottom/0.27.1920.988/1920.20.1920.1080@0.27.1920.988" timestamp="1585550418325" />
-    <state width="1874" height="172" key="GridCell.Tab.0.bottom/0.27.1920.988/1920.20.1920.1080@1920.20.1920.1080" timestamp="1585858001739" />
+    <state width="937" height="172" key="GridCell.Tab.0.bottom/0.27.1920.988/1920.20.1920.1080@1920.20.1920.1080" timestamp="1585859485276" />
     <state width="1874" height="130" key="GridCell.Tab.0.bottom/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1584025310185" />
     <state width="1874" height="353" key="GridCell.Tab.0.bottom/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1584347496038" />
-    <state width="1874" height="172" key="GridCell.Tab.0.center" timestamp="1585858001739">
+    <state width="937" height="172" key="GridCell.Tab.0.center" timestamp="1585859485276">
       <screen x="1920" y="20" width="1920" height="1080" />
     </state>
     <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585136471636" />
     <state width="1874" height="166" key="GridCell.Tab.0.center/0.27.1920.988/1920.20.1920.1080@0.27.1920.988" timestamp="1585550418325" />
-    <state width="1874" height="172" key="GridCell.Tab.0.center/0.27.1920.988/1920.20.1920.1080@1920.20.1920.1080" timestamp="1585858001739" />
+    <state width="937" height="172" key="GridCell.Tab.0.center/0.27.1920.988/1920.20.1920.1080@1920.20.1920.1080" timestamp="1585859485276" />
     <state width="1874" height="130" key="GridCell.Tab.0.center/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1584025310185" />
     <state width="1874" height="353" key="GridCell.Tab.0.center/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1584347496038" />
-    <state width="1874" height="172" key="GridCell.Tab.0.left" timestamp="1585858001739">
+    <state width="937" height="172" key="GridCell.Tab.0.left" timestamp="1585859485276">
       <screen x="1920" y="20" width="1920" height="1080" />
     </state>
     <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585136471636" />
     <state width="1874" height="166" key="GridCell.Tab.0.left/0.27.1920.988/1920.20.1920.1080@0.27.1920.988" timestamp="1585550418325" />
-    <state width="1874" height="172" key="GridCell.Tab.0.left/0.27.1920.988/1920.20.1920.1080@1920.20.1920.1080" timestamp="1585858001739" />
+    <state width="937" height="172" key="GridCell.Tab.0.left/0.27.1920.988/1920.20.1920.1080@1920.20.1920.1080" timestamp="1585859485276" />
     <state width="1874" height="130" key="GridCell.Tab.0.left/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1584025310185" />
     <state width="1874" height="353" key="GridCell.Tab.0.left/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1584347496038" />
-    <state width="1874" height="172" key="GridCell.Tab.0.right" timestamp="1585858001739">
+    <state width="937" height="172" key="GridCell.Tab.0.right" timestamp="1585859485276">
       <screen x="1920" y="20" width="1920" height="1080" />
     </state>
     <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585136471636" />
     <state width="1874" height="166" key="GridCell.Tab.0.right/0.27.1920.988/1920.20.1920.1080@0.27.1920.988" timestamp="1585550418325" />
-    <state width="1874" height="172" key="GridCell.Tab.0.right/0.27.1920.988/1920.20.1920.1080@1920.20.1920.1080" timestamp="1585858001739" />
+    <state width="937" height="172" key="GridCell.Tab.0.right/0.27.1920.988/1920.20.1920.1080@1920.20.1920.1080" timestamp="1585859485276" />
     <state width="1874" height="130" key="GridCell.Tab.0.right/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1584025310185" />
     <state width="1874" height="353" key="GridCell.Tab.0.right/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1584347496038" />
     <state width="1874" height="327" key="GridCell.Tab.1.bottom" timestamp="1585854338578">
@@ -391,10 +346,10 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state width="498" height="446" key="SwitcherDM/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1582296852822" />
-    <state x="2475" y="295" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1584693924916">
+    <state x="2475" y="295" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1585859175330">
       <screen x="1920" y="20" width="1920" height="1080" />
     </state>
-    <state x="2475" y="295" key="Vcs.Push.Dialog.v2/0.27.1920.988/1920.20.1920.1080@1920.20.1920.1080" timestamp="1584693924916" />
+    <state x="2475" y="295" width="800" height="528" key="Vcs.Push.Dialog.v2/0.27.1920.988/1920.20.1920.1080@1920.20.1920.1080" timestamp="1585859175330" />
     <state x="2475" y="275" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583309708739" />
     <state x="2359" y="119" width="1031" height="815" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1585843224730">
       <screen x="1920" y="20" width="1920" height="1080" />
@@ -435,11 +390,6 @@
           <url>file://$PROJECT_DIR$/Codeforces/1296/pC.cpp</url>
           <line>64</line>
           <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/test.cpp</url>
-          <line>15</line>
-          <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
