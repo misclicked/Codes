@@ -13,13 +13,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f6b28ad4-7947-4897-aeba-d2bd37177c5e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/B-large-practice.in" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/B-small-practice.in" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-world-helper.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputA.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputB.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NCKUOnlineJudge/20.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/NCKUOnlineJudge/20.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,7 +142,7 @@
       <workItem from="1585631022905" duration="4201000" />
       <workItem from="1585642974807" duration="2345000" />
       <workItem from="1585720635200" duration="4929000" />
-      <workItem from="1585842010514" duration="17523000" />
+      <workItem from="1585842010514" duration="18902000" />
     </task>
     <task id="LOCAL-00001" summary="add Clion IDE configs">
       <created>1554865095896</created>
@@ -220,7 +214,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585859025228</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="remove redundancy">
+      <created>1585859590033</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1585859590033</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -248,7 +249,8 @@
     <MESSAGE value="ACMAMAII" />
     <MESSAGE value="I'm noob" />
     <MESSAGE value="attack on judges" />
-    <option name="LAST_COMMIT_MESSAGE" value="attack on judges" />
+    <MESSAGE value="remove redundancy" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove redundancy" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2616" y="376" width="518" height="325" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1583297029917">
@@ -263,10 +265,10 @@
       <screen x="1920" y="20" width="1920" height="1080" />
     </state>
     <state x="3350" y="169" width="236" height="488" key="#xdebugger.XInspectDialog/0.27.1920.988/1920.20.1920.1080@1920.20.1920.1080" timestamp="1584617876856" />
-    <state x="2445" y="151" width="860" height="816" key="CommitChangelistDialog2" timestamp="1585859024911">
+    <state x="2445" y="151" width="860" height="816" key="CommitChangelistDialog2" timestamp="1585859589770">
       <screen x="1920" y="20" width="1920" height="1080" />
     </state>
-    <state x="2445" y="151" width="860" height="816" key="CommitChangelistDialog2/0.27.1920.988/1920.20.1920.1080@1920.20.1920.1080" timestamp="1585859024911" />
+    <state x="2445" y="151" width="860" height="816" key="CommitChangelistDialog2/0.27.1920.988/1920.20.1920.1080@1920.20.1920.1080" timestamp="1585859589770" />
     <state x="2445" y="131" width="860" height="816" key="CommitChangelistDialog2/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583309696259" />
     <state width="937" height="172" key="GridCell.Tab.0.bottom" timestamp="1585859485276">
       <screen x="1920" y="20" width="1920" height="1080" />
@@ -346,10 +348,10 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state width="498" height="446" key="SwitcherDM/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1582296852822" />
-    <state x="2475" y="295" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1585859175330">
+    <state x="2475" y="295" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1585859600650">
       <screen x="1920" y="20" width="1920" height="1080" />
     </state>
-    <state x="2475" y="295" width="800" height="528" key="Vcs.Push.Dialog.v2/0.27.1920.988/1920.20.1920.1080@1920.20.1920.1080" timestamp="1585859175330" />
+    <state x="2475" y="295" width="800" height="528" key="Vcs.Push.Dialog.v2/0.27.1920.988/1920.20.1920.1080@1920.20.1920.1080" timestamp="1585859600650" />
     <state x="2475" y="275" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583309708739" />
     <state x="2359" y="119" width="1031" height="815" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1585843224730">
       <screen x="1920" y="20" width="1920" height="1080" />
