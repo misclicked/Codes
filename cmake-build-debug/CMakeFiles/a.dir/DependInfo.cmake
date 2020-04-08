@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/misclicked/CLionProjects/Codes/NCKUOnlineJudge/2.cpp" "/home/misclicked/CLionProjects/Codes/cmake-build-debug/CMakeFiles/a.dir/NCKUOnlineJudge/2.cpp.o"
+  "/home/misclicked/CLionProjects/Codes/GenOutput.cpp" "/home/misclicked/CLionProjects/Codes/cmake-build-debug/CMakeFiles/a.dir/GenOutput.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

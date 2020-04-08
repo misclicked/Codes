@@ -34,10 +34,10 @@ cmake_force:
 SHELL = /bin/sh
 
 # The CMake executable.
-CMAKE_COMMAND = /home/misclicked/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/193.6015.37/bin/cmake/linux/bin/cmake
+CMAKE_COMMAND = /home/misclicked/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/193.6911.21/bin/cmake/linux/bin/cmake
 
 # The command to remove a file.
-RM = /home/misclicked/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/193.6015.37/bin/cmake/linux/bin/cmake -E remove -f
+RM = /home/misclicked/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/193.6911.21/bin/cmake/linux/bin/cmake -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
@@ -57,27 +57,27 @@ include CMakeFiles/a.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/a.dir/flags.make
 
-CMakeFiles/a.dir/NCKUOnlineJudge/2.cpp.o: CMakeFiles/a.dir/flags.make
-CMakeFiles/a.dir/NCKUOnlineJudge/2.cpp.o: ../NCKUOnlineJudge/2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/misclicked/CLionProjects/Codes/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/a.dir/NCKUOnlineJudge/2.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/a.dir/NCKUOnlineJudge/2.cpp.o -c /home/misclicked/CLionProjects/Codes/NCKUOnlineJudge/2.cpp
+CMakeFiles/a.dir/GenOutput.cpp.o: CMakeFiles/a.dir/flags.make
+CMakeFiles/a.dir/GenOutput.cpp.o: ../GenOutput.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/misclicked/CLionProjects/Codes/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/a.dir/GenOutput.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/a.dir/GenOutput.cpp.o -c /home/misclicked/CLionProjects/Codes/GenOutput.cpp
 
-CMakeFiles/a.dir/NCKUOnlineJudge/2.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/a.dir/NCKUOnlineJudge/2.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/misclicked/CLionProjects/Codes/NCKUOnlineJudge/2.cpp > CMakeFiles/a.dir/NCKUOnlineJudge/2.cpp.i
+CMakeFiles/a.dir/GenOutput.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/a.dir/GenOutput.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/misclicked/CLionProjects/Codes/GenOutput.cpp > CMakeFiles/a.dir/GenOutput.cpp.i
 
-CMakeFiles/a.dir/NCKUOnlineJudge/2.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/a.dir/NCKUOnlineJudge/2.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/misclicked/CLionProjects/Codes/NCKUOnlineJudge/2.cpp -o CMakeFiles/a.dir/NCKUOnlineJudge/2.cpp.s
+CMakeFiles/a.dir/GenOutput.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/a.dir/GenOutput.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/misclicked/CLionProjects/Codes/GenOutput.cpp -o CMakeFiles/a.dir/GenOutput.cpp.s
 
 # Object files for target a
 a_OBJECTS = \
-"CMakeFiles/a.dir/NCKUOnlineJudge/2.cpp.o"
+"CMakeFiles/a.dir/GenOutput.cpp.o"
 
 # External object files for target a
 a_EXTERNAL_OBJECTS =
 
-../a: CMakeFiles/a.dir/NCKUOnlineJudge/2.cpp.o
+../a: CMakeFiles/a.dir/GenOutput.cpp.o
 ../a: CMakeFiles/a.dir/build.make
 ../a: CMakeFiles/a.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/misclicked/CLionProjects/Codes/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable ../a"

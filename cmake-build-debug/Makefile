@@ -39,10 +39,10 @@ cmake_force:
 SHELL = /bin/sh
 
 # The CMake executable.
-CMAKE_COMMAND = /home/misclicked/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/193.6015.37/bin/cmake/linux/bin/cmake
+CMAKE_COMMAND = /home/misclicked/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/193.6911.21/bin/cmake/linux/bin/cmake
 
 # The command to remove a file.
-RM = /home/misclicked/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/193.6015.37/bin/cmake/linux/bin/cmake -E remove -f
+RM = /home/misclicked/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/193.6911.21/bin/cmake/linux/bin/cmake -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
@@ -59,7 +59,7 @@ CMAKE_BINARY_DIR = /home/misclicked/CLionProjects/Codes/cmake-build-debug
 # Special rule for the target rebuild_cache
 rebuild_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
-	/home/misclicked/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/193.6015.37/bin/cmake/linux/bin/cmake -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
+	/home/misclicked/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/193.6911.21/bin/cmake/linux/bin/cmake -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
 .PHONY : rebuild_cache
 
 # Special rule for the target rebuild_cache
@@ -70,7 +70,7 @@ rebuild_cache/fast: rebuild_cache
 # Special rule for the target edit_cache
 edit_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
-	/home/misclicked/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/193.6015.37/bin/cmake/linux/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
+	/home/misclicked/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/193.6911.21/bin/cmake/linux/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
 .PHONY : edit_cache
 
 # Special rule for the target edit_cache
@@ -123,32 +123,32 @@ a/fast:
 	$(MAKE) -f CMakeFiles/a.dir/build.make CMakeFiles/a.dir/build
 .PHONY : a/fast
 
-NCKUOnlineJudge/2.o: NCKUOnlineJudge/2.cpp.o
+GenOutput.o: GenOutput.cpp.o
 
-.PHONY : NCKUOnlineJudge/2.o
+.PHONY : GenOutput.o
 
 # target to build an object file
-NCKUOnlineJudge/2.cpp.o:
-	$(MAKE) -f CMakeFiles/a.dir/build.make CMakeFiles/a.dir/NCKUOnlineJudge/2.cpp.o
-.PHONY : NCKUOnlineJudge/2.cpp.o
+GenOutput.cpp.o:
+	$(MAKE) -f CMakeFiles/a.dir/build.make CMakeFiles/a.dir/GenOutput.cpp.o
+.PHONY : GenOutput.cpp.o
 
-NCKUOnlineJudge/2.i: NCKUOnlineJudge/2.cpp.i
+GenOutput.i: GenOutput.cpp.i
 
-.PHONY : NCKUOnlineJudge/2.i
+.PHONY : GenOutput.i
 
 # target to preprocess a source file
-NCKUOnlineJudge/2.cpp.i:
-	$(MAKE) -f CMakeFiles/a.dir/build.make CMakeFiles/a.dir/NCKUOnlineJudge/2.cpp.i
-.PHONY : NCKUOnlineJudge/2.cpp.i
+GenOutput.cpp.i:
+	$(MAKE) -f CMakeFiles/a.dir/build.make CMakeFiles/a.dir/GenOutput.cpp.i
+.PHONY : GenOutput.cpp.i
 
-NCKUOnlineJudge/2.s: NCKUOnlineJudge/2.cpp.s
+GenOutput.s: GenOutput.cpp.s
 
-.PHONY : NCKUOnlineJudge/2.s
+.PHONY : GenOutput.s
 
 # target to generate assembly for a file
-NCKUOnlineJudge/2.cpp.s:
-	$(MAKE) -f CMakeFiles/a.dir/build.make CMakeFiles/a.dir/NCKUOnlineJudge/2.cpp.s
-.PHONY : NCKUOnlineJudge/2.cpp.s
+GenOutput.cpp.s:
+	$(MAKE) -f CMakeFiles/a.dir/build.make CMakeFiles/a.dir/GenOutput.cpp.s
+.PHONY : GenOutput.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... a"
 	@echo "... edit_cache"
-	@echo "... NCKUOnlineJudge/2.o"
-	@echo "... NCKUOnlineJudge/2.i"
-	@echo "... NCKUOnlineJudge/2.s"
+	@echo "... GenOutput.o"
+	@echo "... GenOutput.i"
+	@echo "... GenOutput.s"
 .PHONY : help
 
 
