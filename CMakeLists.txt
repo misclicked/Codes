@@ -4,5 +4,7 @@ project(Codes)
 set(CMAKE_CXX_STANDARD 14)
 SET(CMAKE_CXX_FLAGS -pthread)
 set(CMAKE_WARN_DEPRECATED true)
-add_executable(a GenOutput.cpp)
+add_definitions(-DOVO_)
+
+add_executable(a Codeforces/1325/pC.cpp)
 set_target_properties(a PROPERTIES RUNTIME_OUTPUT_DIRECTORY "${PROJECT_SOURCE_DIR}")

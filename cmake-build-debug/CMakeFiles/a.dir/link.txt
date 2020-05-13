@@ -1,1 +1,1 @@
-/usr/bin/c++  -pthread -g   CMakeFiles/a.dir/GenOutput.cpp.o  -o ../a 
+/usr/bin/c++  -pthread -g   CMakeFiles/a.dir/Codeforces/1325/pC.cpp.o  -o ../a 
