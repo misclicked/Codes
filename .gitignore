@@ -36,3 +36,6 @@ input.txt
 output.txt
 test.cpp
 *.in
+
+# Cmake compile
+/cmake-build-debug
