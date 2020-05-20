@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
       <config projectName="Codes" targetName="a" />
@@ -11,58 +29,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6b28ad4-7947-4897-aeba-d2bd37177c5e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/contest3.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/contest3/pA.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/contest3/pB.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/contest3/pC.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/contest3/pD.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/contest3/pE.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/contest3/pF.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/contest4/pA.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/contest4/pB.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/contest4/pC.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/contest4/pD.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/contest4/pE.2.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/contest4/pE.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/contest4/pF.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/contest4/pG.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/contest5/lib0043.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/contest5/pA.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/contest5/pB.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/contest5/pC.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/contest5/pD.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/contest5/pE.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/contest5/pF.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/contest6/pA.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/contest6/pB.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/contest6/pC.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/contest6/pD.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCKUOnlineJudge/contest6/pE.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="f6b28ad4-7947-4897-aeba-d2bd37177c5e" name="Default Changelist" comment="remove a lot of shit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AtCoder/practice_2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/AtCoder/practice_2.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a.dir/DependInfo.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a.dir/build.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a.dir/cmake_clean.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a.dir/depend.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a.dir/flags.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a.dir/link.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a.dir/progress.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Codes.cbp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -194,7 +162,8 @@
       <workItem from="1585842010514" duration="22384000" />
       <workItem from="1586159404473" duration="13000" />
       <workItem from="1586325740820" duration="7156000" />
-      <workItem from="1589961411302" duration="24000" />
+      <workItem from="1589961411302" duration="99000" />
+      <workItem from="1589961532095" duration="179000" />
     </task>
     <task id="LOCAL-00001" summary="add Clion IDE configs">
       <created>1554865095896</created>
@@ -280,7 +249,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585861946591</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="remove a lot of shit">
+      <created>1589961481868</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1589961481868</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -308,7 +284,8 @@
     <MESSAGE value="attack on judges" />
     <MESSAGE value="remove redundancy" />
     <MESSAGE value="finally ac this = =" />
-    <option name="LAST_COMMIT_MESSAGE" value="finally ac this = =" />
+    <MESSAGE value="remove a lot of shit" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove a lot of shit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="696" y="362" width="518" height="325" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1589961382276">
