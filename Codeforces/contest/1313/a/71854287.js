@@ -1,0 +1,1 @@
+r=readline;for(k=r();k--;print(i)){s=r().split(" ").sort((a,b)=>-a<-b).map((x)=>{return x>4?4:x}).join('');d=['001','011','022','122','223','333','444','445'];for(i=0;s>=d[i];i++){}}
